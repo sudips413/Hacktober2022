@@ -3,7 +3,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 https://hacktoberfest.digitalocean.com/
 
-#Steps to Contribute
+##Steps to Contribute
 
 Fork this repository by clicking the Fork button on the top right corner of this page or simply click here.
 Create a new file and add a new Program in any programming language like C++, Java, Python, etc. (Note: No duplicate programs can exist!)
